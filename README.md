@@ -1,14 +1,3 @@
-# tobogganapp - Group 11
-
-## Group Members
-
-<ul>
-  <li>Taylor Young</li>
-  <li>Peter Regas</li>
-  <li>Shayan Khosravi</li>
-  <li>Sirichai Justin Wong</li>
-</ul>
-
 ## Description
 Finding hills to toboggan on is a very ambiguous process that involves a lot of google searching and word of mouth exchanges. The goal of this project is to help connect the tobogganing community, from families looking for a fun day out with the kids to a group of enthusiasts looking for the next great hill, our app will provide everything needed to find, contribute, learn about, and rate hills.
  
